@@ -1,9 +1,10 @@
-Name: YOUR NAME HERE
+Name: Niko Madriz
 
-| Date    |  Time  |                                     Update |
-|:--------|:------:|-------------------------------------------:|
-| April 5 | 9-10pm | I tried to write abstract, efficient code. |
-|         |        |                                            |
+| Date       |     Time     |                                                                                                                                                                                                                                                                                                                                    Update |
+|:-----------|:------------:|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| October 28 | 9:20-9:55 AM |                                                                                              I have a couple different ideas on how to approach this problem, first is to use binary search in my solution. Second would be to create my own hashmap. I would go with the hashmap solution but I am not able to use the hashmap function. |
+| October 29 |    2-3 PM    |                                                                                                                                           I explored the possibility of a binary search solution, but I feel like hashing/hashmap might ultimately be the way to go. The only issue would be finding a P value that is in the sweet spot. |
+| October 30 |    5-6 PM    | I have scrapped the idea of binary search and am now focusing on hashmaps. I think I can kind of combine a hashmap and a trie to solve this. ALthough I don't really know where to start. I have created a hash function that I am going to need to tweak in order for it to work. I also am trying to split the key and value currently. |
 
 
 To add a new row to the table, click into a cell and then hit shift-enter.
